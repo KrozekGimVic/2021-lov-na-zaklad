@@ -8,7 +8,7 @@ Ker je Janez obupal nad programiranjem se je odločil, da bo srečo poskušal is
 - Helij 3 (označen z “X”, ali 1). Janez čezenj lahko prevrta in v tem primeru mu bodo za vsak tak kvadratek ustrezno plačali.
 - Skala (označena z “#”, ali 2). Janez ne more vrtati čez skalo, a jo lahko razstreli če ima dinamit
 - Nevarni plini (označeni z “+”, ali 3) Janezek čeznje ne more prevrtati, ampak preprosto pade skozi njih naravnost na tla.
-- 
+
 Janez je izgubil pravi zemljevid, vedar ve, da lahko zemljevid rekonstruira s pomočjo kode na `https://gist.github.com/jO-Osko/4a57256119409698b790cdb814d0d277`.
 ## Naloge
 1. Janezova družina ne verjame v njegovo ekspedicijo, zato jo bo Janez poskušal prepričati, da lahko bajno zasluži. Kakšen je maksimalen zaslužek (če uspešno pobere ves helij), če mu bodo za vsako enoto helija plačali 12$?
