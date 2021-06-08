@@ -20,6 +20,6 @@ Janez je izgubil pravi zemljevid, vedar ve, da lahko zemljevid rekonstruira s po
 7. Prijatelj arabec je Janezu povedal, da je občasno bolje, da stvari počne od desne proti levi, ali lahko v tem primeru Janez zasluži več?
  
 ## Težje naloge
-8. Sedaj ko ima Janez oba stroja, lahko izkoplje eno vrstico in stolpec naenkrat. Koliko največ lahko zasluži sedaj, pri čemer polje, ki je na preseku obeh poti, šteje samo enkrat?
+8. Sedaj ko ima Janez oba stroja, lahko izkoplje eno vrstico in stolpec naenkrat. Koliko največ lahko zasluži sedaj, pri čemer polje, ki je na preseku obeh poti, šteje samo enkrat? Uporablja stroja iz 3. in 4. naloge.
 9. Ko se je naslednjič dobil na pivu s kolegom mehanikom, mu je ta omenil, da lahko oba stroja skombinira v en sam stroj, ki pa lahko koplje pod poljubnim naklonom (npr. (2, 1) = 2 desno, 1 dol, 2 desno, 1 dol, ...). Janez lahko začne kopati na poljubnem polju na vrhu, levi ali desni strani (spodaj pa ne). Koliko lahko sedaj največ zasluži?
 
